@@ -11,7 +11,7 @@
 
 ## 立志篇
 
-* [欢迎来到上海交通大学](li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue.md)
+* [欢迎来到北京理工大学](li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue.md)
 * [你想要做什么](li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me.md)
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/README.md)
   * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
@@ -65,7 +65,7 @@
 
 ## 生存技巧
 
-* [交大转专业指南](sheng-cun-ji-qiao/jiao-da-zhuan-zhuan-ye-zhi-nan.md)
+* [北理工转专业指南](sheng-cun-ji-qiao/jiao-da-zhuan-zhuan-ye-zhi-nan.md)
 * [选课原则与选课技巧](sheng-cun-ji-qiao/untitled/README.md)
   * [我是否一定要选辅修？](sheng-cun-ji-qiao/untitled/wo-shi-fou-yi-ding-yao-xuan-fu-xiu.md)
   * [选课选什么](sheng-cun-ji-qiao/untitled/xuan-ke-xuan-shen-me.md)
@@ -86,7 +86,7 @@
   * [形势政策考试](sheng-cun-ji-qiao/pang-men-zuo-dao/xing-shi-zheng-ce-kao-shi.md)
   * [物理实验](sheng-cun-ji-qiao/pang-men-zuo-dao/wu-li-shi-yan.md)
   * [学术灌水](sheng-cun-ji-qiao/pang-men-zuo-dao/xue-shu-guan-shui.md)
-  * [关于交大邮箱](sheng-cun-ji-qiao/pang-men-zuo-dao/guan-yu-jiao-da-you-xiang.md)
+  * [关于北理工邮箱](sheng-cun-ji-qiao/pang-men-zuo-dao/guan-yu-jiao-da-you-xiang.md)
 
 ## 附录
 
@@ -114,7 +114,7 @@
   * [本科生转学经验分享-新加坡](fu-lu/ben-ke-zhuan-xue-jing-yan-fen-xiang-todo/ben-ke-sheng-zhuan-xue-jing-yan-fen-xiang-xin-jia-po.md)
 * [本科生找实习经验分享TODO](fu-lu/ben-ke-sheng-zhao-shi-xi-jing-yan-fen-xiang-todo.md)
 * [本科生科研经验分享TODO](fu-lu/ben-ke-sheng-ke-yan-jing-yan-fen-xiang-todo.md)
-* [交大学生社团介绍TODO](fu-lu/jiao-da-xue-sheng-she-tuan-jie-shao-todo.md)
+* [北理工学生社团介绍TODO](fu-lu/jiao-da-xue-sheng-she-tuan-jie-shao-todo.md)
 * [通识课介绍TODO](fu-lu/ren-wen-jing-guan-lei-ke-cheng/README.md)
   * [必修类](fu-lu/ren-wen-jing-guan-lei-ke-cheng/bi-xiu-lei.md)
   * [选修类](fu-lu/ren-wen-jing-guan-lei-ke-cheng/xuan-xiu-lei.md)
@@ -122,6 +122,6 @@
   * [社科类](fu-lu/ren-wen-jing-guan-lei-ke-cheng/she-ke-lei.md)
   * [自然科学类](fu-lu/ren-wen-jing-guan-lei-ke-cheng/zi-ran-ke-xue-lei.md)
 * [已经工作学长的人生经验TODO](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/README.md)
-  * [上海交通大学CS生存指南--番外篇1](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/shang-hai-jiao-tong-da-xue-cs-sheng-cun-zhi-nan-fan-wai-pian-1.md)
+  * [北京理工大学CS生存指南--番外篇1](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/shang-hai-jiao-tong-da-xue-cs-sheng-cun-zhi-nan-fan-wai-pian-1.md)
   * [软件工程15级-互联网产品经理经验分享](fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/ruan-jian-gong-cheng-15-ji-hu-lian-wang-chan-pin-jing-li-jing-yan-fen-xiang.md)
 * [本科毕业之后](fu-lu/sjtu-application.md)
