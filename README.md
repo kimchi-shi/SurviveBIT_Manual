@@ -5,12 +5,12 @@
 暂定修改和增添内容如下:
 
 * [x] 增加新版序言和声明
-* [x] 更新留沪政策
+* [x] 更新留京政策
 * [x] 添加详细的本科生科研建议，以及选择导师的经验
 * [x] 添加转专业经验章节进入立志篇部分
 * [ ] 添加本科转学海外经验章节进入立志篇部分
-* [ ] 添加交大各个专业的介绍进入生存技巧部分（该部分将在收集到足够投稿后按专业整合）
-* [ ] 增加交大毕业生选调的经验介绍
+* [ ] 添加北理工各个专业的介绍进入生存技巧部分（该部分将在收集到足够投稿后按专业整合）
+* [ ] 增加北理工毕业生选调的经验介绍
 * [ ] 增加保研、直博的经验介绍
 
 以下内容将独立到【空出，留给学校官方】，欢迎大家PR投稿，GitHub Page相比Gitbook更方便添加新内容。
@@ -40,7 +40,7 @@
 
 ### 立志篇
 
-* [欢迎来到上海交通大学](li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue.md)
+* [欢迎来到北京理工大学](li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue.md)
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/)
   * [高考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/gao-kao-si-wei.md)
   * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
